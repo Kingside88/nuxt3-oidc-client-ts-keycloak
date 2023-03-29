@@ -8,9 +8,12 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "^3.3.1"
+    "nuxt": "^3.3.1",
+    "pinia": "2.0.28"
   },
   "dependencies": {
-    "oidc-client-ts": "^2.2.2"
+    "@pinia/nuxt": "^0.4.7",
+    "oidc-client-ts": "^2.2.2",
+    "sass": "^1.60.0"
   }
 }
